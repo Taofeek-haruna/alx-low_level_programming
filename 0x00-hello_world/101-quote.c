@@ -1,6 +1,6 @@
 #include<unistd.h>
 /**
- * main: Pogram entry point.
+ *main-Pogram entry point.
  *Description: write out information
  * Return: 1 on success.
  */
