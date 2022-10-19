@@ -6,8 +6,9 @@
 *
 * Return: Always 0.
 */
-int main(void)
+int _abs(int);
 {
+
 int r;
 
 
