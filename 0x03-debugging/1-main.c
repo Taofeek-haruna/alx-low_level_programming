@@ -17,7 +17,7 @@ i = 0;
 /*putchar(i);*/
 /*}*/
 
-printf("Infiniteloop avoiided! \\o\\n");
+printf("/Infiniteloop avoiided! \\o\//\n");
 
 return (0);
 }
