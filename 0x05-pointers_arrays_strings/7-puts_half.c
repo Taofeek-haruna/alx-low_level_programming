@@ -1,6 +1,9 @@
 #include "main.h"
+#include <stdio.h>
+#include <puts_half.h>
 /**
 * pouts_half - prints half of a string.
+* @puts_half
 * @str: input string.
 * Return: no return.
 */
