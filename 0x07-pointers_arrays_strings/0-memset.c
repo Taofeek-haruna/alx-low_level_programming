@@ -20,5 +20,5 @@ while (letter <= n)
 s[letter] = b;
 letter++;
 }
-return (0);
+return (s);
 }
