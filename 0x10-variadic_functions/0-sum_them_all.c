@@ -3,7 +3,7 @@
 * main - function that returns sum of all parameters
 * @const: constant declaration
 * @n: variable
-* Return: 0
+* Return: sum
 */
 
 int sum_them_all(const unsigned int n, ...)
